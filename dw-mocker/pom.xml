@@ -13,11 +13,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.atguigu.gmall2019.dw</groupId>
-            <artifactId>gmall2019_dw</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpcore</artifactId>
             <version>4.2.5</version>
